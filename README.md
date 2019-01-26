@@ -1,4 +1,4 @@
-# aria
+# ARIA
 Website created by AriaTeam for All people community 
 
 # INFORMATION
