@@ -10,6 +10,7 @@ our system and a system created by the AriaTeam, we are a web devellopement team
 - Discord: soon
 - Twitter: soon
 - Github: https://github.com/AriaOfficial
+- Email: contact.ariateam@gmail.com
 
 # CONTACT
 
