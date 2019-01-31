@@ -4,7 +4,7 @@ Here is the description of the project that we made available with the AriaTeam,
 
 # INFORMATION
 
-our system and a system created by the AriaTeam, we are a web devellopement team, and application of any kind, the system that we propose you right here and a system of Cyber Protection as well as other windows software as well as android, all the links are so below that it is for the site or other:
+our system and a system created by AriaTeam, we are a web development team as well as windows software as well as application for android, we can entertain ourselves sometimes by changing a can like mod for certain games such as Minecraft or development of server like Minecraft (as an example) and of course other games too, for more information look below:
 
 - Website: https://ariaofficial.github.io/aria/
 - Discord: https://discord.gg/B4aU3TN
