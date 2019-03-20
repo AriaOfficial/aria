@@ -1,6 +1,6 @@
 # ARIA -> project
 
-We will put you several bot code discord to add on your bot so that it is even more pleasant for the users of your bot discord
+Aria site maintenance page available for anyone
 
 # INFORMATION
 
