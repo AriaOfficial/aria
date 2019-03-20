@@ -1,6 +1,6 @@
 # ARIA -> project
 
-Aria site maintenance page available for anyone
+The Aria website maintenance page available to anyone
 
 # INFORMATION
 
